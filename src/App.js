@@ -1,11 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import CardSetList from './components/CardSetList';
+import Header from './components/Header';
 
 function App() {
   return (
     <div className="App">
-      <h1>Myrddins Poke TCG</h1>
-
+      <Header />
+      
+      <h4>Hello World!</h4>
+      <CardSetList />
 
     </div>
   );

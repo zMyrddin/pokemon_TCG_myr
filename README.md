@@ -12,6 +12,8 @@ npm install react-router-dom
 ### Install react Use for different hook package
 npm i react-use
 
+### Install Axios for x-api-key connection to TCG API
+npm i axios
 
 # Getting Started with Create React App
 
